@@ -1,0 +1,6 @@
+express- ok
+nodemon, sucrase - ok
+
+confiurando o container docker na imagem baixada do postgress
+
+sudo docker run --name datafeet -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres
