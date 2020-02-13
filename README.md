@@ -29,6 +29,6 @@ Dependências de desenvolvimento
 - nodemon
 
 ## Iniciar o projeto
-- git init
 - git clone https://github.com/alanladeira/api-node-fastfeet.git
+- cd api-node-fastfeet.git
 - yarn
